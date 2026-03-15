@@ -647,14 +647,14 @@ Bảo Ngọc                      read-10-3-2026
 ~
 
 ~ Lớp test
-A                             sing-15-3-2026     read-15-3-2026
-B                             sing-15-3-2026     read-15-3-2026
+A                             sing-15-3-2026     read-15-3-2026     dance-15-3-2026
+B                             sing-15-3-2026     read-15-3-2026     dance-15-3-2026
 C                             read-15-3-2026
-D                             sing-15-3-2026     read-15-3-2026
+D                             sing-15-3-2026     read-15-3-2026     dance-15-3-2026
 E                             read-15-3-2026
-F                             read-15-3-2026
-G                             read-15-3-2026
-H                             read-15-3-2026
+F                             read-15-3-2026     dance-15-3-2026
+G                             read-15-3-2026     dance-15-3-2026
+H                             read-15-3-2026     dance-15-3-2026
 ~
 
 ~ 6a12
